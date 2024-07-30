@@ -18,3 +18,4 @@
 
 # Tasks
 ## Task 1
+- Objective : MATLAB numeric types
