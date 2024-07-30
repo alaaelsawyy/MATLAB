@@ -1,6 +1,6 @@
 # MATLAB Basics Module
 # LABs
- #### [[Task 1:]]
+ #### [[[LAB 1_MATLAB Basics]](https://github.com/alaaelsawyy/MATLAB/blob/f85093d5bc9a59765438152c2513189db190d3ee/LABs/LAB%201.m)]
 - Objective : This lab exercise will help you practice essential MATLAB concepts, including creating and manipulating numeric arrays, performing matrix concatenation, and using the repmat function.
 
 
