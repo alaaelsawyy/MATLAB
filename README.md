@@ -5,7 +5,7 @@
 
 
 
-## LAB 2
+ #### [[LAB 2 : While and Switch]](https://github.com/alaaelsawyy/MATLAB/blob/6146b259b197ce388abc128775dfccbb1e1d9dca/LABs/LAB%202.m)]
 - Objective : In this lab, you will practice working with MATLAB's control structures, specifically the while loop and the switch statement.
 
 
