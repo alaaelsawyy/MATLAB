@@ -13,9 +13,9 @@
 - Objective : In this lab, you will learn and practice fundamental concepts related to MATLAB functions. You will create your own functions, understand function inputs and outputs, and explore common function features
 
 
-## LAB 4
+ #### [[LAB 4 : Functions]](https://github.com/alaaelsawyy/MATLAB/blob/2872d2111ceae14b5061b20cf4fdc1197cab7202/LABs/LAB%204.m)]
 - Objective : In this practical lab, beginners will learn and practice fundamental MATLAB concepts, including cell arrays, structures, character data, conditional statements (if), for loops, and basic plotting.
 
 # Tasks
-## Task 1
+## Task 1   
 - Objective : MATLAB numeric types
