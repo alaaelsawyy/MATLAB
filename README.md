@@ -18,4 +18,4 @@
 
 # Tasks
  #### [[TASK 1 ]](https://github.com/alaaelsawyy/MATLAB/blob/2a59f91aa9b3ae0e1e96ec69ef177d7670140183/TASK/Task%201.m)
-- Objective : MATLAB numeric types, 
+- Objective : MATLAB numeric types, Specialized Matrix Functions and Matrix Concatenation.
