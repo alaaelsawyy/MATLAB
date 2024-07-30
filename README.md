@@ -1,5 +1,5 @@
 # MATLAB Basics Module
-# LABs
+## LABs
  #### [[LAB 1 : MATLAB Basics]](https://github.com/alaaelsawyy/MATLAB/blob/f85093d5bc9a59765438152c2513189db190d3ee/LABs/LAB%201.m)
 - Objective : This lab exercise will help you practice essential MATLAB concepts, including creating and manipulating numeric arrays, performing matrix concatenation, and using the repmat function.
 
@@ -16,6 +16,10 @@
  #### [[LAB 4 : MATLAB Concebts]](https://github.com/alaaelsawyy/MATLAB/blob/2872d2111ceae14b5061b20cf4fdc1197cab7202/LABs/LAB%204.m)
 - Objective : In this practical lab, beginners will learn and practice fundamental MATLAB concepts, including cell arrays, structures, character data, conditional statements (if), for loops, and basic plotting.
 
-# Tasks
+## Tasks
  #### [[TASK 1 ]](https://github.com/alaaelsawyy/MATLAB/blob/2a59f91aa9b3ae0e1e96ec69ef177d7670140183/TASK/Task%201.m)
 - Objective : MATLAB numeric types, Specialized Matrix Functions and Matrix Concatenation.
+
+
+## Robot Arm Simulation Project
+- objective : MATLAB app for simulating the motion of a robotic arm. It allows users to input the lengths of two segments of the arm and visualize how the arm moves in response to changes in these lengths.
