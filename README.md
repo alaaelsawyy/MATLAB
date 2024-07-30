@@ -9,7 +9,7 @@
 - Objective : In this lab, you will practice working with MATLAB's control structures, specifically the while loop and the switch statement.
 
 
-## LAB 3
+ #### [[LAB 3 : Functions]](https://github.com/alaaelsawyy/MATLAB/blob/a869db075422cc40cae17d1909f2ecb35d817c2c/LABs/LAB%203.m)]
 - Objective : In this lab, you will learn and practice fundamental concepts related to MATLAB functions. You will create your own functions, understand function inputs and outputs, and explore common function features
 
 
