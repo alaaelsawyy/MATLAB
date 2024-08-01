@@ -21,5 +21,7 @@
 - Objective : MATLAB numeric types, Specialized Matrix Functions and Matrix Concatenation.
 
 
-## Robot Arm Simulation Project
+## Robot_Arm_Simulation_Project
+ #### [[Robot Arm Simulation Project]](https://github.com/alaaelsawyy/MATLAB_Basics_RobotArm/tree/9b28f36c7d71a30236f356492b60a0ad9bba5997/RobotArm_Simulation)
 - objective : MATLAB app for simulating the motion of a robotic arm. It allows users to input the lengths of two segments of the arm and visualize how the arm moves in response to changes in these lengths.
+
